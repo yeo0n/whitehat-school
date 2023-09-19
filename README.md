@@ -1,1 +1,1 @@
-# 차세대 보안리더 양성 프로그램 화이트햇 스쿨 1기 과제
+# Whitehat_School_Network_Seucurity
